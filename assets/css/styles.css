@@ -85,10 +85,10 @@ img {
 
 /* cursor custom */
 * {
-  cursor: url('../img/logo.png'), auto !important;
+  cursor: url('../img/cursor.webp'), auto !important;
 }
 a, button, .treasure-btn, .nav__link {
-  cursor: url('../img/logo.png'), auto !important;
+  cursor: url('../img/cursor.webp'), auto !important;
 }
 
 
